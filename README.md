@@ -1,5 +1,4 @@
-# think_like_computer_scientist
-think_like_computer_scientist
+# How to Think Like a Computer Scientist
 
-# Exercises from the following book:
+# Content of this book is found here:
 http://openbookproject.net/thinkcs/python/english3e/
